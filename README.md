@@ -1,11 +1,9 @@
-## My Project
+## AWS-Connect-LexV2-Sample 
 
-TODO: Fill this README out!
+TODO: This is a sample Lex V2 Zip file which can be imported in the Lex V2 console for Amazon Connect list picker demonstration.
 
-Be sure to:
+This file is a Zip archive containing a sample Amazon Lex V2 bot definition. This bot is specifically designed to demonstrate the functionality of the List Picker feature in Amazon Connect. The List Picker is a user interface element that allows callers to select an option from a predefined list during a conversation with a bot.
 
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
